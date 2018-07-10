@@ -1,0 +1,84 @@
+h1{
+  text-align: center;
+  text-shadow:white;
+  .span{
+    font-style: oblique;
+  }
+}
+.outer-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height:25%;
+}
+.col-md-3{
+  position: relative;
+  padding:0px;
+  float: left;
+}
+.inner-image{
+  background-image: url('img/landing.jpg');
+  height: 600px;
+  padding-top: 0px;
+}
+#happy{
+  background-color: lavender;
+  padding: 42px;
+  margin-left: -60px;
+}
+#hour{
+  background-color: coral;
+  padding: 42px;
+  margin-left: -60px;
+}
+#top{
+  margin-top: -40px;
+}
+#sun{
+  margin-left: -70px;
+  margin-top: 40px;
+}
+#moon{
+  margin-right: 80px;
+}
+#komo{
+  color: white;
+  font-style: italic;
+}
+#who{
+margin-right: -120px;
+height: 400px;
+}
+#mike{
+  padding-bottom: 350px;
+  padding-top: 0px;
+}
+#FASTFOOD{
+color: red;
+padding-top: 40px;
+background-color: white;
+border-style: ridge;
+}
+#DRINKS{
+  padding-top : 40px;
+  background-color: grey;
+  border-style: ridge;
+}
+#CHICKEN{
+  padding-top : 40px;
+  background-color: grey;
+  border-style: ridge;
+}
+#RICE{
+  padding-top: 40px;
+  background-color: grey;
+  border-style: ridge;
+}
+#month{
+  color: red;
+}
+#mike2{
+  text-align:right;
+  margin-top: :-600px;
+}
