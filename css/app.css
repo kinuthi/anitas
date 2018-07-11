@@ -129,3 +129,6 @@ border-style: ridge;
 #bag{
   margin-top: -50px;
 }
+#dog:hover{
+  opacity: 0.5;
+}
