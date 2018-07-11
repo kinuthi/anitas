@@ -111,4 +111,14 @@ border-style: ridge;
   margin-left: -50px;
   margin-right: -400px;
   margin-bottom: 600px;
+  text-align: center;
+}
+#buk{
+  font-style: italic;
+}
+#put:hover{
+  color: red;
+}
+#pet:hover{
+  color: red;
 }
