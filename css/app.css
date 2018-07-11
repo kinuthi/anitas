@@ -81,4 +81,24 @@ border-style: ridge;
 #mike2{
   text-align:right;
   margin-top: :-600px;
+  text-align: center;
+  margin-bottom: -4px;
+}
+#kevin{
+  margin-bottom: 100px;
+  margin-top: : 100px;
+  margin-left: -70px;
+  margin-right: -90px;
+  background-repeat: no-repeat;
+  text-align: center;
+  content:
+}
+#wapi{
+  align-items: center;
+}
+#lappy{
+  color: white;
+}
+#cup{
+  background-color: orange;
 }
