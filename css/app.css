@@ -102,3 +102,12 @@ border-style: ridge;
 #cup{
   background-color: orange;
 }
+#bag{
+  color: red;
+}
+#sit{
+  background-color: coral;
+  margin-top: -400px;
+  margin-left: -50px;
+  margin-right: -400px;
+}
